@@ -1,0 +1,16 @@
+
+
+
+.slink a{
+   color: #fff;
+   font-size: 15px;
+   display: flex;
+   padding: 5px;
+   margin-bottom: 8px;
+}
+.slink a:hover{
+  font-size: 16px;
+  color: aqua;
+  border-bottom: 2px solid #fff;
+ transition: all .3s;
+}
